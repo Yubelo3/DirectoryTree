@@ -1,0 +1,2 @@
+#define CLI
+// #define SCRIPT
